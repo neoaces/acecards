@@ -1,3 +1,3 @@
 # Summary
 
-- [Start](/docs/src/version/start.md)
+- [Start](version/start.md)
